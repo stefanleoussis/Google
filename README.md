@@ -1,2 +1,2 @@
 # Google
-Taking the google repo name because I'm cool like that
+With great power comes great responsibility
